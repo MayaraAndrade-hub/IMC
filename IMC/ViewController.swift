@@ -35,6 +35,7 @@ class ViewController: UIViewController {
         }
     }
         func mostrarResultado(){
+            var testVar: String = ""
             var result: String = ""
             var image: String = ""
             switch imc {
